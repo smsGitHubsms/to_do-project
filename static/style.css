@@ -1,0 +1,11 @@
+.banner{
+    background-color:darkslategrey;
+    width:100%;
+    heigth:300px;
+    margin-top:25px;
+}
+.banner-text{
+    color:white;
+    margin-left:600px;
+
+}
